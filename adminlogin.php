@@ -4,6 +4,7 @@
 	{
 		header("Location:index1.php");
 	}
+	///////////jhjkjj
 ?>
 <?php
 	$error="";	
